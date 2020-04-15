@@ -1,0 +1,3 @@
+INFO     HttpUtil:httpUtil.py:23 Post responses successfully
+INFO     session_fixture:conftest.py:18 Login successfully
+INFO     HttpUtil:httpUtil.py:33 Get responses successfully

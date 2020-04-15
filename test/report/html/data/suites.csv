@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcases.login.test_login.Test_login#test_success","85",""
+"passed","testcases.login.test_login.Test_login#test_fail","65",""
+"passed","testcases.course.test_study.TestStudy#test_study_success","71",""

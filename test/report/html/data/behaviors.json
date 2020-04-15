@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "学习动态",
+    "children" : [ {
+      "name" : "学习动态获取成功",
+      "children" : [ {
+        "name" : "test_study_success",
+        "uid" : "74bff28d4e1beb90",
+        "parentUid" : "f25fd037dc76cd33dc3d93942cc75e0c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586773011507,
+          "stop" : 1586773011578,
+          "duration" : 71
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f25fd037dc76cd33dc3d93942cc75e0c"
+    } ],
+    "uid" : "2a6b7942eeae10f98ed28cc27f4932db"
+  }, {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登陆成功",
+      "children" : [ {
+        "name" : "test_success",
+        "uid" : "8249345343f1c5aa",
+        "parentUid" : "4531f402d61abe658b074ae6da4a0e5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586773011610,
+          "stop" : 1586773011695,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4531f402d61abe658b074ae6da4a0e5b"
+    }, {
+      "name" : "test_fail",
+      "uid" : "20c4b982671d6b61",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586773011702,
+        "stop" : 1586773011767,
+        "duration" : 65
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  } ]
+}

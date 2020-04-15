@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-B42MIB8",
+    "children" : [ {
+      "name" : "14664-MainThread",
+      "children" : [ {
+        "name" : "test_success",
+        "uid" : "8249345343f1c5aa",
+        "parentUid" : "590e1499736ae193a56655cfcec73b22",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586773011610,
+          "stop" : 1586773011695,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_fail",
+        "uid" : "20c4b982671d6b61",
+        "parentUid" : "590e1499736ae193a56655cfcec73b22",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586773011702,
+          "stop" : 1586773011767,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_study_success",
+        "uid" : "74bff28d4e1beb90",
+        "parentUid" : "590e1499736ae193a56655cfcec73b22",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586773011507,
+          "stop" : 1586773011578,
+          "duration" : 71
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "590e1499736ae193a56655cfcec73b22"
+    } ],
+    "uid" : "c364ec9bc435b7230cbb6437a49da081"
+  } ]
+}
